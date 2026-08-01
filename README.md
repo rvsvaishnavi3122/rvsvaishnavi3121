@@ -45,60 +45,121 @@ Today, I build product case studies and AI-powered prototypes across FinTech, Ma
 
 These projects demonstrate my approach to identifying problems, validating assumptions, designing MVPs, and measuring success.
 
-| Project | Problem | Product Skills Demonstrated |
-|---------|---------|------------------------------|
-| **Rapido Weather Mode** | Ride uncertainty during bad weather | Marketplace Dynamics • User Research • Marketplace Operations • Experiment Design |
-| **AJIO Trust Layer** | Low purchase confidence for unfamiliar sellers | Marketplace Trust • UX • Funnel Optimization • Retention |
-| **PhonePe Smart EMI** | Limited credit accessibility despite strong payment behavior | FinTech • Growth • Risk Thinking • Product Strategy |
-| **Swiggy Dineout – Offer Transparency** | Discount information appears too late in the booking journey | UX • Information Architecture • Experimentation |
-| **Feature Factory AI** | Product discovery is fragmented across teams | AI Products • Workflow Design • SaaS • Systems Thinking |
-| **Viz.ai – Point Solution vs Workflow Platform** | Product positioning and platform strategy | Product Strategy • GTM • Platform Thinking |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛵 Rapido Weather Mode</h3>
+        <p><b>Problem:</b> Ride uncertainty during bad weather</p>
+        <p><b>Skills:</b> Marketplace Dynamics • User Research • Marketplace Operations • Experiment Design</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Case%20Study-667eea?style=for-the-badge" alt="View Case Study"></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏪 AJIO Trust Layer</h3>
+        <p><b>Problem:</b> Low purchase confidence for unfamiliar sellers</p>
+        <p><b>Skills:</b> Marketplace Trust • UX • Funnel Optimization • Retention</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Case%20Study-667eea?style=for-the-badge" alt="View Case Study"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💳 PhonePe Smart EMI</h3>
+        <p><b>Problem:</b> Limited credit accessibility despite strong payment behavior</p>
+        <p><b>Skills:</b> FinTech • Growth • Risk Thinking • Product Strategy</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Case%20Study-667eea?style=for-the-badge" alt="View Case Study"></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🍽️ Swiggy Dineout – Offer Transparency</h3>
+        <p><b>Problem:</b> Discount information appears too late in the booking journey</p>
+        <p><b>Skills:</b> UX • Information Architecture • Experimentation</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Case%20Study-667eea?style=for-the-badge" alt="View Case Study"></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤖 Feature Factory AI</h3>
+        <p><b>Problem:</b> Product discovery is fragmented across teams</p>
+        <p><b>Skills:</b> AI Products • Workflow Design • SaaS • Systems Thinking</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Case%20Study-667eea?style=for-the-badge" alt="View Case Study"></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🔬 Viz.ai – Point Solution vs Workflow Platform</h3>
+        <p><b>Problem:</b> Product positioning and platform strategy</p>
+        <p><b>Skills:</b> Product Strategy • GTM • Platform Thinking</p>
+        <a href="#"><img src="https://img.shields.io/badge/View%20Case%20Study-667eea?style=for-the-badge" alt="View Case Study"></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 💡 Other Product Builds
 
-### AI Meeting Execution Assistant
+<div align="center">
 
-AI-assisted workflow that converts meeting discussions into actionable tasks, reminders, and follow-ups.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📝 AI Meeting Execution Assistant</h3>
+        <p>AI-assisted workflow that converts meeting discussions into actionable tasks, reminders, and follow-ups.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Workflow%20Automation-blue?style=flat" alt="Workflow Automation">
+          <img src="https://img.shields.io/badge/Productivity-blue?style=flat" alt="Productivity">
+          <img src="https://img.shields.io/badge/AI%20Assistants-blue?style=flat" alt="AI Assistants">
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🍴 Home Planner AI</h3>
+        <p>An AI-powered decision assistant that recommends meals using available pantry ingredients, reducing cognitive effort during meal planning.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Decision%20Simplification-blue?style=flat" alt="Decision Simplification">
+          <img src="https://img.shields.io/badge/AI%20Recommendations-blue?style=flat" alt="AI Recommendations">
+          <img src="https://img.shields.io/badge/Consumer%20Product-blue?style=flat" alt="Consumer Product">
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🍽️ Meal Decide</h3>
+        <p>A decision-first recommendation engine that helps users decide what to cook in seconds instead of browsing endless recipes.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Behavioral%20Design-blue?style=flat" alt="Behavioral Design">
+          <img src="https://img.shields.io/badge/Consumer%20AI-blue?style=flat" alt="Consumer AI">
+          <img src="https://img.shields.io/badge/Personalization-blue?style=flat" alt="Personalization">
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🎮 Bounce Arena</h3>
+        <p>A multiplayer arcade game exploring player engagement, competition loops, and retention mechanics.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Engagement-blue?style=flat" alt="Engagement">
+          <img src="https://img.shields.io/badge/Retention-blue?style=flat" alt="Retention">
+          <img src="https://img.shields.io/badge/Game%20Mechanics-blue?style=flat" alt="Game Mechanics">
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-**Focus**
-- Workflow Automation
-- Productivity
-- AI Assistants
-
----
-
-### Home Planner AI
-
-An AI-powered decision assistant that recommends meals using available pantry ingredients, reducing cognitive effort during meal planning.
-
-**Focus**
-- Decision Simplification
-- AI Recommendations
-- Consumer Product
-
----
-
-### Meal Decide
-
-A decision-first recommendation engine that helps users decide what to cook in seconds instead of browsing endless recipes.
-
-**Focus**
-- Behavioral Design
-- Consumer AI
-- Personalization
-
----
-
-### Bounce Arena
-
-A multiplayer arcade game exploring player engagement, competition loops, and retention mechanics.
-
-**Focus**
-- Engagement
-- Retention
-- Game Mechanics
+</div>
 
 ---
 

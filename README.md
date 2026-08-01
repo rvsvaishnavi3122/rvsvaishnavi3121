@@ -1,44 +1,41 @@
-# Hi, I'm Vaishnavi 👋
+# AJIO Trust Layer Workflow
 
-**Budding Associate Product Manager | Product Growth & Experimentation**
-Fintech · Consumer Tech · B2B SaaS
+**Turning uncertainty into confidence — from discovery to delivery.**
 
-I build products by pairing engineering-level execution with product thinking — 2.5+ years driving user growth and conversion on insurance platforms through analytics, experimentation, and cross-functional delivery, now applying that same rigor to case studies across fintech, healthcare, and consumer tech.
+## Problem Validation
+- Interviewed 12 AJIO users: 83% said they don't buy from new/unfamiliar sellers
+- Data: products from new sellers see 40% returns vs. 15% for established sellers
+- User quote (paraphrased): *not knowing who the seller is makes them hesitant to trust the purchase*
+- Estimated cost: ~$2M annually in lost GMV
 
-📫 [LinkedIn](https://linkedin.com/in/rvs-vaishnavi-568a02212) · ✉️ rvsvaishnavi@gmail.com
+## Why Now
+- **Competitive:** Flipkart already has trust badges; AJIO has nothing comparable
+- **Segment:** new sellers get 60% fewer orders — the biggest lever for improvement
+- **Timeline:** an MVP with 4 (of 6 planned) trust signals can ship in 6 weeks
+- **Revenue impact:** even a 5% conversion lift is worth ~$5M in additional revenue
 
----
+## The Solution: A 6-Step Trust Workflow
+1. **Discover** — trust badge (e.g. 8.4/10) shown directly on the product listing page
+2. **Evaluate** — trust score summary surfaced at the top of the product detail page
+3. **Deep dive** — full trust breakdown: fit confidence, return rate vs. category average, top return reasons, seller reliability
+4. **Visual reality** — real customer photos and "model vs. real" comparisons set accurate expectations
+5. **Risk indicators** — proactive callouts (e.g. "runs small," "color may vary in bright light")
+6. **Confidence nudge** — a final "you're likely to keep this product" signal before add-to-bag
 
-## 🚀 Product Case Studies
+Post-purchase, a lightweight feedback loop (fit, color accuracy, quality rating) feeds back into the trust engine: **User Interactions → Data & Signals → Trust Intelligence Engine → Trust Layer Displayed → Confident Purchases**, continuously improving the score.
 
-| Project | Focus | Key Result |
+## What We're Betting On
+| Assumption | Risk | Mitigation |
 |---|---|---|
-| [Weather Mode — Rapido Link](./case-studies/weather-mode-rapido) | Ride-booking UX during demand shocks | Wait time cut from 2–3 hrs to <15 min, +35% booking completion |
-| [AJIO Trust Layer](./case-studies/ajio-trust-layer) | Predictive trust scoring to reduce returns | Est. +5–10% conversion, -5–10% returns, +$5M revenue |
-| [Swiggy Dineout — Offer Transparency](./case-studies/swiggy-dineout-trust-ux) | Booking flow expectation-setting | Reframed CTR vs. booking-completion tradeoff |
-| [Swiggy Instamart SnapCheck 2.0](./case-studies/swiggy-instamart-snapcheck) | AI-powered zero-effort order verification | 70% faster issue detection, 40% fewer support tickets |
-| [Viz.ai — Point vs Workflow Solution](./case-studies/viz-ai-workflow-strategy) | GTM & product strategy analysis | Recommended "sell as point, build as workflow" positioning |
-| [PhonePe Smart EMI](./case-studies/phonepe-smart-emi) | UPI-native affordability prototype | Projected +28% checkout conversion, -22% cart abandonment |
-| [Feature Factory AI](./case-studies/feature-factory-ai) | AI-agent product team framework | Idea → PRD → test plan → go/no-go, fully automated |
+| Users trust data-driven scores more than reviews | They don't | A/B test with 5% of users first |
+| Sellers accept transparent scoring | Backlash from low-scored sellers | Internal seller communication plan |
+| 6 signals are enough to build confidence | We miss important signals | Build for future signals; start with 3 |
 
----
+## Success Metrics & Rollout
+- **Primary:** conversion rate on product pages with a Trust Score — target +8%
+- **Secondary:** return rate reduction — target -5%
+- **Tertiary:** % of users reporting "very confident" in post-purchase surveys — target 40%
+- 4-week test at 5% traffic; kill criteria: if conversion lift is under 3%, pivot to a simpler solution
 
-## 🛠 Product Skills
-Product Analytics · Feature Prioritization (RICE) · Product Strategy · MVP Prototyping · A/B Testing · User Research · UX Design · PRD Documentation · Product Validation · Roadmapping · Stakeholder Management · Cohort Analysis
-
-## 💻 Technical Fluency
-**Languages/Tools:** Java, Playwright, Selenium, Robot Framework, API Testing
-**Product Tools:** JIRA, Confluence, Figma, Notion, Mixpanel, GitHub
-
----
-
-## 🎯 Currently
-- Building a personal PM knowledge base covering strategy, discovery, metrics, prioritization, execution, and GTM
-- Preparing for Associate Product Manager / PM roles at startups and growth-stage companies
-
----
-
-## 📌 Other Builds
-- **AI Meeting Execution Assistant** — AI-assisted workflow for decision tracking, validated via 15+ user discussions, targeting a 40% cut in manual follow-ups
-- **Meal Decide** — decision-first recommendation engine, cutting meal-selection time from 8+ minutes to under 10 seconds
-- **Bounce Arena** — multiplayer arcade game with real-time competition, 35% Day-7 retention
+## Expected Impact (if successful)
++5–10% conversion lift · -5–10% return rate · +$5M+ additional revenue (conservative) · stronger seller ecosystem and repeat purchase behavior

@@ -1,41 +1,26 @@
-# AJIO Trust Layer Workflow
+# Feature Factory AI
 
-**Turning uncertainty into confidence — from discovery to delivery.**
+**An AI-powered product team that thinks, researches, and delivers — turning any feature idea into a complete product plan.**
 
-## Problem Validation
-- Interviewed 12 AJIO users: 83% said they don't buy from new/unfamiliar sellers
-- Data: products from new sellers see 40% returns vs. 15% for established sellers
-- User quote (paraphrased): *not knowing who the seller is makes them hesitant to trust the purchase*
-- Estimated cost: ~$2M annually in lost GMV
+`Idea → Research → Plan → Test → Decide`
 
-## Why Now
-- **Competitive:** Flipkart already has trust badges; AJIO has nothing comparable
-- **Segment:** new sellers get 60% fewer orders — the biggest lever for improvement
-- **Timeline:** an MVP with 4 (of 6 planned) trust signals can ship in 6 weeks
-- **Revenue impact:** even a 5% conversion lift is worth ~$5M in additional revenue
+## How It Works
+A single feature request (e.g. *"Show Swiggy Dineout offers on the slot selection page"*) is run through four AI agents in parallel:
 
-## The Solution: A 6-Step Trust Workflow
-1. **Discover** — trust badge (e.g. 8.4/10) shown directly on the product listing page
-2. **Evaluate** — trust score summary surfaced at the top of the product detail page
-3. **Deep dive** — full trust breakdown: fit confidence, return rate vs. category average, top return reasons, seller reliability
-4. **Visual reality** — real customer photos and "model vs. real" comparisons set accurate expectations
-5. **Risk indicators** — proactive callouts (e.g. "runs small," "color may vary in bright light")
-6. **Confidence nudge** — a final "you're likely to keep this product" signal before add-to-bag
-
-Post-purchase, a lightweight feedback loop (fit, color accuracy, quality rating) feeds back into the trust engine: **User Interactions → Data & Signals → Trust Intelligence Engine → Trust Layer Displayed → Confident Purchases**, continuously improving the score.
-
-## What We're Betting On
-| Assumption | Risk | Mitigation |
+| Agent | Role | Output |
 |---|---|---|
-| Users trust data-driven scores more than reviews | They don't | A/B test with 5% of users first |
-| Sellers accept transparent scoring | Backlash from low-scored sellers | Internal seller communication plan |
-| 6 signals are enough to build confidence | We miss important signals | Build for future signals; start with 3 |
+| **Research Agent** | Market researcher — competitor analysis, user pain points, existing solutions, risks, opportunities | Research Report |
+| **PM Agent** | Product manager — problem statement, user stories, PRD, acceptance criteria, success metrics, RICE score | PRD Document |
+| **QA Agent** | Quality analyst — positive/negative/edge/regression test cases | Test Plan |
+| **Manager Agent** | Product leader — reviews all outputs, validates completeness, identifies risks, prioritizes impact | Executive Summary |
 
-## Success Metrics & Rollout
-- **Primary:** conversion rate on product pages with a Trust Score — target +8%
-- **Secondary:** return rate reduction — target -5%
-- **Tertiary:** % of users reporting "very confident" in post-purchase surveys — target 40%
-- 4-week test at 5% traffic; kill criteria: if conversion lift is under 3%, pivot to a simpler solution
+A final **Manager Agent (synthesis)** step acts as a "Chief Product Officer AI" — synthesizing all four outputs, evaluating feasibility and impact, and producing a final recommendation and action plan.
 
-## Expected Impact (if successful)
-+5–10% conversion lift · -5–10% return rate · +$5M+ additional revenue (conservative) · stronger seller ecosystem and repeat purchase behavior
+## Final Output
+Executive summary · priority recommendation (impact vs. effort) · risks & mitigations · next steps · a clear go/no-go decision — all saved to a database for history and tracking.
+
+## Tech Stack
+Google Gemini (AI models) · Supabase (database) · Lovable (frontend) · n8n (automation) · Vercel (deployment)
+
+## Why It Matters
+Most PM workflows bottleneck on synthesis — pulling research, requirements, and QA thinking into one coherent recommendation. This framework treats that synthesis step as a first-class agent, not an afterthought, so a single feature idea gets triaged from multiple functional lenses before it ever reaches a roadmap.

@@ -1,10 +1,27 @@
+<div align="center">
+  
+# 🚀 Vaishnavi's Product Portfolio
+
+<p>
+  <a href="https://linkedin.com/in/rvs-vaishnavi-568a02212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rvsvaishnavi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+**QA Engineer → Aspiring Associate Product Manager**
+
+*Identifying friction in products and designing simple, measurable solutions that improve user decisions*
+
+</div>
+
+---
+
 # Hi, I'm Vaishnavi 👋
 
 ## QA Engineer → Aspiring Associate Product Manager
 
 I enjoy identifying friction in everyday products and designing simple, measurable solutions that improve user decisions.
 
-Over the last 2.5+ years, I've worked as a QA Engineer building reliable insurance products. Working closely with engineering teams taught me where products break—not just technically, but from a user experience perspective. That curiosity led me toward Product Management.
+Over the last 2.5+ years, I've worked as a QA Engineer building reliable insurance products. Working closely with engineering teams taught me where products break—not just technically, but from a[...]
 
 Today, I build product case studies and AI-powered prototypes across FinTech, Marketplaces, Healthcare, and Consumer Tech, combining engineering execution with product thinking.
 
@@ -29,7 +46,7 @@ Today, I build product case studies and AI-powered prototypes across FinTech, Ma
 These projects demonstrate my approach to identifying problems, validating assumptions, designing MVPs, and measuring success.
 
 | Project | Problem | Product Skills Demonstrated |
-|---------|---------|-----------------------------|
+|---------|---------|------------------------------|
 | **Rapido Weather Mode** | Ride uncertainty during bad weather | Marketplace Dynamics • User Research • Marketplace Operations • Experiment Design |
 | **AJIO Trust Layer** | Low purchase confidence for unfamiliar sellers | Marketplace Trust • UX • Funnel Optimization • Retention |
 | **PhonePe Smart EMI** | Limited credit accessibility despite strong payment behavior | FinTech • Growth • Risk Thinking • Product Strategy |

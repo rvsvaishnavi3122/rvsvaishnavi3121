@@ -1,44 +1,223 @@
 # Hi, I'm Vaishnavi 👋
 
-** Budding Associate Product Manager | Product Growth & Experimentation**
-Fintech · Consumer Tech · B2B SaaS
+## QA Engineer → Aspiring Associate Product Manager
 
-I build products by pairing engineering-level execution with product thinking — 2.5+ years driving user growth and conversion on insurance platforms through analytics, experimentation, and cross-functional delivery, now applying that same rigor to case studies across fintech, healthcare, and consumer tech.
+I enjoy identifying friction in everyday products and designing simple, measurable solutions that improve user decisions.
 
-📫 [LinkedIn](https://linkedin.com/in/rvs-vaishnavi-568a02212) · ✉️ rvsvaishnavi@gmail.com
+Over the last 2.5+ years, I've worked as a QA Engineer building reliable insurance products. Working closely with engineering teams taught me where products break—not just technically, but from a user experience perspective. That curiosity led me toward Product Management.
 
----
+Today, I build product case studies and AI-powered prototypes across FinTech, Marketplaces, Healthcare, and Consumer Tech, combining engineering execution with product thinking.
 
-## 🚀 Product Case Studies
+**Areas of Interest**
 
-| Project | Focus | Key Result |
-|---|---|---|
-| [Weather Mode — Rapido Link](./case-studies/weather-mode-rapido) | Ride-booking UX during demand shocks | Wait time cut from 2–3 hrs to <15 min, +35% booking completion |
-| [AJIO Trust Layer](./case-studies/ajio-trust-layer) | Predictive trust scoring to reduce returns | Est. +5–10% conversion, -5–10% returns, +$5M revenue |
-| [Swiggy Dineout — Offer Transparency](./case-studies/swiggy-dineout-trust-ux) | Booking flow expectation-setting | Reframed CTR vs. booking-completion tradeoff |
-| [Swiggy Instamart SnapCheck 2.0](./case-studies/swiggy-instamart-snapcheck) | AI-powered zero-effort order verification | 70% faster issue detection, 40% fewer support tickets |
-| [Viz.ai — Point vs Workflow Solution](./case-studies/viz-ai-workflow-strategy) | GTM & product strategy analysis | Recommended "sell as point, build as workflow" positioning |
-| [PhonePe Smart EMI](./case-studies/phonepe-smart-emi) | UPI-native affordability prototype | Projected +28% checkout conversion, -22% cart abandonment |
-| [Feature Factory AI](./case-studies/feature-factory-ai) | AI-agent product team framework | Idea → PRD → test plan → go/no-go, fully automated |
+• FinTech  
+• AI Products  
+• Consumer Tech  
+• Marketplaces  
+• B2B SaaS
 
----
+📍 Hyderabad, India
 
-## 🛠 Product Skills
-Product Analytics · Feature Prioritization (RICE) · Product Strategy · MVP Prototyping · A/B Testing · User Research · UX Design · PRD Documentation · Product Validation · Roadmapping · Stakeholder Management · Cohort Analysis
+📫 **LinkedIn:** https://linkedin.com/in/rvs-vaishnavi-568a02212
 
-## 💻 Technical Fluency
-**Languages/Tools:** Java, Playwright, Selenium, Robot Framework, API Testing
-**Product Tools:** JIRA, Confluence, Figma, Notion, Mixpanel, GitHub
+✉️ **Email:** rvsvaishnavi@gmail.com
 
 ---
 
-## 🎯 Currently
-- Building a personal PM knowledge base covering strategy, discovery, metrics, prioritization, execution, and GTM
-- Preparing for Associate Product Manager / PM roles at startups and growth-stage companies
+# 🚀 Featured Product Case Studies
+
+These projects demonstrate my approach to identifying problems, validating assumptions, designing MVPs, and measuring success.
+
+| Project | Problem | Product Skills Demonstrated |
+|---------|---------|-----------------------------|
+| **Rapido Weather Mode** | Ride uncertainty during bad weather | Marketplace Dynamics • User Research • Marketplace Operations • Experiment Design |
+| **AJIO Trust Layer** | Low purchase confidence for unfamiliar sellers | Marketplace Trust • UX • Funnel Optimization • Retention |
+| **PhonePe Smart EMI** | Limited credit accessibility despite strong payment behavior | FinTech • Growth • Risk Thinking • Product Strategy |
+| **Swiggy Dineout – Offer Transparency** | Discount information appears too late in the booking journey | UX • Information Architecture • Experimentation |
+| **Feature Factory AI** | Product discovery is fragmented across teams | AI Products • Workflow Design • SaaS • Systems Thinking |
+| **Viz.ai – Point Solution vs Workflow Platform** | Product positioning and platform strategy | Product Strategy • GTM • Platform Thinking |
 
 ---
 
-## 📌 Other Builds
-- **AI Meeting Execution Assistant** — AI-assisted workflow for decision tracking, validated via 15+ user discussions, targeting a 40% cut in manual follow-ups
-- **Meal Decide** — decision-first recommendation engine, cutting meal-selection time from 8+ minutes to under 10 seconds
-- **Bounce Arena** — multiplayer arcade game with real-time competition, 35% Day-7 retention
+# 💡 Other Product Builds
+
+### AI Meeting Execution Assistant
+
+AI-assisted workflow that converts meeting discussions into actionable tasks, reminders, and follow-ups.
+
+**Focus**
+- Workflow Automation
+- Productivity
+- AI Assistants
+
+---
+
+### Home Planner AI
+
+An AI-powered decision assistant that recommends meals using available pantry ingredients, reducing cognitive effort during meal planning.
+
+**Focus**
+- Decision Simplification
+- AI Recommendations
+- Consumer Product
+
+---
+
+### Meal Decide
+
+A decision-first recommendation engine that helps users decide what to cook in seconds instead of browsing endless recipes.
+
+**Focus**
+- Behavioral Design
+- Consumer AI
+- Personalization
+
+---
+
+### Bounce Arena
+
+A multiplayer arcade game exploring player engagement, competition loops, and retention mechanics.
+
+**Focus**
+- Engagement
+- Retention
+- Game Mechanics
+
+---
+
+# 🧠 My Product Thinking
+
+When evaluating products, I usually start with five questions:
+
+- What user problem are we solving?
+- Is the problem frequent enough to matter?
+- What's the smallest experiment that validates the idea?
+- Which metric should improve?
+- What trade-offs are we making?
+
+I enjoy breaking products apart to understand why they work, where they create friction, and how small improvements can meaningfully improve user experience.
+
+---
+
+# 🛠 Product Skills
+
+### Product Discovery
+
+- User Research
+- JTBD
+- Personas
+- Problem Validation
+- Opportunity Identification
+
+### Product Strategy
+
+- MVP Definition
+- Product Vision
+- Roadmapping
+- Product Positioning
+- Competitive Analysis
+
+### Prioritization
+
+- RICE
+- MoSCoW
+- Feature Prioritization
+
+### Analytics & Experimentation
+
+- A/B Testing
+- Funnel Analysis
+- Cohort Analysis
+- Success Metrics
+- North Star Metrics
+- Hypothesis Design
+
+### Documentation
+
+- PRDs
+- User Stories
+- Acceptance Criteria
+- Product Requirement Documentation
+
+---
+
+# 💻 Technical Skills
+
+### Languages
+
+- Java
+
+### Testing
+
+- Playwright
+- Selenium
+- Robot Framework
+- API Testing
+
+### Product Tools
+
+- Figma
+- Notion
+- Jira
+- Confluence
+- Mixpanel
+- GitHub
+
+### AI & Development
+
+- Google Gemini
+- Supabase
+- n8n
+- Lovable
+- Vercel
+
+---
+
+# 📚 Currently Learning
+
+I'm actively deepening my understanding of:
+
+- Product Analytics
+- Marketplace Dynamics
+- AI Product Management
+- Product Strategy
+- Growth Experimentation
+- Pricing & Monetization
+- Go-To-Market Strategy
+
+---
+
+# 🌱 What I'm Looking For
+
+I'm seeking an Associate Product Manager role where I can combine my engineering background with product thinking to build products that solve meaningful customer problems.
+
+I'm particularly excited by opportunities in:
+
+- FinTech
+- Consumer Products
+- AI Platforms
+- Marketplaces
+- B2B SaaS
+
+---
+
+# 📖 Beyond Building
+
+I enjoy analyzing products I use every day.
+
+Recent product analyses include:
+
+- AJIO Seller Trust
+- Swiggy Dineout UX
+- Viz.ai Product Strategy
+- Marketplace Trust Systems
+- AI Workflow Automation
+- Consumer Decision Fatigue
+
+I believe good product management starts with curiosity—observing user behavior, questioning assumptions, and validating ideas before building solutions.
+
+---
+
+⭐ Thanks for stopping by!
+
+If you'd like to discuss product ideas, AI, marketplaces, or consumer products, I'd love to connect.

@@ -19,9 +19,10 @@
 
 ## QA Engineer → Aspiring Associate Product Manager
 
+
 I enjoy identifying friction in everyday products and designing simple, measurable solutions that improve user decisions.
 
-Over the last 2.5+ years, I've worked as a QA Engineer building reliable insurance products. Working closely with engineering teams taught me where products break—not just technically, but from a[...]
+Over the last 2.5+ years, I've worked as a QA Engineer building reliable insurance products. Working closely with engineering teams taught me where products break—not just technically, but from a user experience perspective. That curiosity led me toward Product Management.
 
 Today, I build product case studies and AI-powered prototypes across FinTech, Marketplaces, Healthcare, and Consumer Tech, combining engineering execution with product thinking.
 
